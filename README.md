@@ -1,2 +1,2 @@
 # image-curtain
-3D Image Curtain
+3D Image Curtain - using touch events
